@@ -1,4 +1,5 @@
 # Coffee Sales Dashboard 
+![Dashboard Overview](https://github.com/anirudhajohare19/Coffee_Sales_Dashboard_Excel/blob/64c20ed4fd6c53e24a34e6813ce7d5db48b905a1/Coffee%20Sales.png)
 ## 1. Project Overview
 This project was created using **Microsoft Excel** to analyze and visualize coffee sales data. The dashboard includes key performance indicators (KPIs), sales trends, customer insights, and product performance metrics to support business decision-making.
 
